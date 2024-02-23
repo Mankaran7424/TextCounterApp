@@ -1,0 +1,11 @@
+body{
+    background-color: #1F2544;
+    color: #FF9843;
+}
+.row-8 {
+    display: flex;
+    height: 5vh;
+}
+.col{
+    border-right: 1px solid white;
+}
